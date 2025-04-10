@@ -1,0 +1,125 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Phoenix Softball//EN
+BEGIN:VEVENT
+UID:20250411T200000@phoenixsoftball.com
+DTSTAMP:20250410T002133Z
+DTSTART:20250411T200000
+DTEND:20250411T210000
+SUMMARY:Liberty Freedom Fighters vs The Phoenix Res
+LOCATION:Lone Peak Park East BB (https://maps.apple.com/place?address=10140%20S%20700%20E,%20Sandy%20City,%20UT%2084094,%20United%20States&coordinate=40.567185,-111.874482&name=Lone%20Peak%20Park%20Pavilion&place-id=I91F903179D302A31&map=h)
+END:VEVENT
+BEGIN:VEVENT
+UID:20250411T210000@phoenixsoftball.com
+DTSTAMP:20250410T002133Z
+DTSTART:20250411T210000
+DTEND:20250411T220000
+SUMMARY:Mizfits vs The Phoenix Res
+LOCATION:Lone Peak Park West BB (https://maps.apple.com/place?address=10140%20S%20700%20E,%20Sandy%20City,%20UT%2084094,%20United%20States&coordinate=40.567185,-111.874482&name=Lone%20Peak%20Park%20Pavilion&place-id=I91F903179D302A31&map=h)
+END:VEVENT
+BEGIN:VEVENT
+UID:20250418T200000@phoenixsoftball.com
+DTSTAMP:20250410T002133Z
+DTSTART:20250418T200000
+DTEND:20250418T210000
+SUMMARY:The Phoenix Res vs Jaywalkers
+LOCATION:Crescent Community Park East (https://maps.apple.com/place?address=230%20E%2011000%20S,%20Sandy,%20UT%20%2084070,%20United%20States&coordinate=40.550944,-111.883079&name=Crescent%20Community%20Park&place-id=I98E645F22DBF6ED1&map=h)
+END:VEVENT
+BEGIN:VEVENT
+UID:20250418T210000@phoenixsoftball.com
+DTSTAMP:20250410T002133Z
+DTSTART:20250418T210000
+DTEND:20250418T220000
+SUMMARY:The Phoenix Res vs Diamond Recovery
+LOCATION:Crescent Community Park East (https://maps.apple.com/place?address=230%20E%2011000%20S,%20Sandy,%20UT%20%2084070,%20United%20States&coordinate=40.550944,-111.883079&name=Crescent%20Community%20Park&place-id=I98E645F22DBF6ED1&map=h)
+END:VEVENT
+BEGIN:VEVENT
+UID:20250425T200000@phoenixsoftball.com
+DTSTAMP:20250410T002133Z
+DTSTART:20250425T200000
+DTEND:20250425T210000
+SUMMARY:Renaissance Ranch vs The Phoenix Res
+LOCATION:Lone Peak Park East BB (https://maps.apple.com/place?address=10140%20S%20700%20E,%20Sandy%20City,%20UT%2084094,%20United%20States&coordinate=40.567185,-111.874482&name=Lone%20Peak%20Park%20Pavilion&place-id=I91F903179D302A31&map=h)
+END:VEVENT
+BEGIN:VEVENT
+UID:20250425T210000@phoenixsoftball.com
+DTSTAMP:20250410T002133Z
+DTSTART:20250425T210000
+DTEND:20250425T220000
+SUMMARY:Rock Bottom / Turning Point Center vs The Phoenix Res
+LOCATION:Lone Peak Park West BB (https://maps.apple.com/place?address=10140%20S%20700%20E,%20Sandy%20City,%20UT%2084094,%20United%20States&coordinate=40.567185,-111.874482&name=Lone%20Peak%20Park%20Pavilion&place-id=I91F903179D302A31&map=h)
+END:VEVENT
+BEGIN:VEVENT
+UID:20250502T180000@phoenixsoftball.com
+DTSTAMP:20250410T002133Z
+DTSTART:20250502T180000
+DTEND:20250502T190000
+SUMMARY:The Phoenix Res vs Alcoballlics
+LOCATION:Crescent Community Park East (https://maps.apple.com/place?address=230%20E%2011000%20S,%20Sandy,%20UT%20%2084070,%20United%20States&coordinate=40.550944,-111.883079&name=Crescent%20Community%20Park&place-id=I98E645F22DBF6ED1&map=h)
+END:VEVENT
+BEGIN:VEVENT
+UID:20250502T190000@phoenixsoftball.com
+DTSTAMP:20250410T002133Z
+DTSTART:20250502T190000
+DTEND:20250502T200000
+SUMMARY:The Phoenix Res vs 7th Street Residential
+LOCATION:Crescent Community Park East (https://maps.apple.com/place?address=230%20E%2011000%20S,%20Sandy,%20UT%20%2084070,%20United%20States&coordinate=40.550944,-111.883079&name=Crescent%20Community%20Park&place-id=I98E645F22DBF6ED1&map=h)
+END:VEVENT
+BEGIN:VEVENT
+UID:20250509T200000@phoenixsoftball.com
+DTSTAMP:20250410T002133Z
+DTSTART:20250509T200000
+DTEND:20250509T210000
+SUMMARY:The Phoenix Res vs Journey IOP
+LOCATION:Lone Peak Park East BB (https://maps.apple.com/place?address=10140%20S%20700%20E,%20Sandy%20City,%20UT%2084094,%20United%20States&coordinate=40.567185,-111.874482&name=Lone%20Peak%20Park%20Pavilion&place-id=I91F903179D302A31&map=h)
+END:VEVENT
+BEGIN:VEVENT
+UID:20250509T210000@phoenixsoftball.com
+DTSTAMP:20250410T002133Z
+DTSTART:20250509T210000
+DTEND:20250509T220000
+SUMMARY:The Phoenix Res vs Trudgers
+LOCATION:Lone Peak Park East BB (https://maps.apple.com/place?address=10140%20S%20700%20E,%20Sandy%20City,%20UT%2084094,%20United%20States&coordinate=40.567185,-111.874482&name=Lone%20Peak%20Park%20Pavilion&place-id=I91F903179D302A31&map=h)
+END:VEVENT
+BEGIN:VEVENT
+UID:20250516T180000@phoenixsoftball.com
+DTSTAMP:20250410T002133Z
+DTSTART:20250516T180000
+DTEND:20250516T190000
+SUMMARY:Journey Treatment Center vs The Phoenix Res
+LOCATION:Crescent Community Park West (https://maps.apple.com/place?address=230%20E%2011000%20S,%20Sandy,%20UT%20%2084070,%20United%20States&coordinate=40.550944,-111.883079&name=Crescent%20Community%20Park&place-id=I98E645F22DBF6ED1&map=h)
+END:VEVENT
+BEGIN:VEVENT
+UID:20250516T190000@phoenixsoftball.com
+DTSTAMP:20250410T002133Z
+DTSTART:20250516T190000
+DTEND:20250516T200000
+SUMMARY:The Phoenix Res vs New Roads Road Runners
+LOCATION:Crescent Community Park East (https://maps.apple.com/place?address=230%20E%2011000%20S,%20Sandy,%20UT%20%2084070,%20United%20States&coordinate=40.550944,-111.883079&name=Crescent%20Community%20Park&place-id=I98E645F22DBF6ED1&map=h)
+END:VEVENT
+BEGIN:VEVENT
+UID:20250523T200000@phoenixsoftball.com
+DTSTAMP:20250410T002133Z
+DTSTART:20250523T200000
+DTEND:20250523T210000
+SUMMARY:The Phoenix Res vs Pinnacle Alumni
+LOCATION:Lone Peak Park East BB (https://maps.apple.com/place?address=10140%20S%20700%20E,%20Sandy%20City,%20UT%2084094,%20United%20States&coordinate=40.567185,-111.874482&name=Lone%20Peak%20Park%20Pavilion&place-id=I91F903179D302A31&map=h)
+END:VEVENT
+BEGIN:VEVENT
+UID:20250523T210000@phoenixsoftball.com
+DTSTAMP:20250410T002133Z
+DTSTART:20250523T210000
+DTEND:20250523T220000
+SUMMARY:The Phoenix Res vs Pinnacle Recovery RES
+LOCATION:Lone Peak Park East BB (https://maps.apple.com/place?address=10140%20S%20700%20E,%20Sandy%20City,%20UT%2084094,%20United%20States&coordinate=40.567185,-111.874482&name=Lone%20Peak%20Park%20Pavilion&place-id=I91F903179D302A31&map=h)
+END:VEVENT
+BEGIN:VEVENT
+UID:20250530T180000@phoenixsoftball.com
+DTSTAMP:20250410T002133Z
+DTSTART:20250530T180000
+DTEND:20250530T190000
+SUMMARY:The Phoenix Res vs Odyssey House 2
+LOCATION:Crescent Community Park East (https://maps.apple.com/place?address=230%20E%2011000%20S,%20Sandy,%20UT%20%2084070,%20United%20States&coordinate=40.550944,-111.883079&name=Crescent%20Community%20Park&place-id=I98E645F22DBF6ED1&map=h)
+END:VEVENT
+END:VCALENDAR
+
